@@ -2,7 +2,12 @@
 
 Small experiment with squint + vite(st) + react
 
+## Requirements
+- [npm](https://www.npmjs.com/)
+- [babashka](https://babashka.org/)
+
 ## Usage
+To run this example, `run npm install` and then one of the following commands:
 
 ### Development server
 ```bash
